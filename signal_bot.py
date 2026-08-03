@@ -261,4 +261,4 @@ def main():
 
 
 if __name__ == "__main__":
-    telegram("✅ Test — bot is actief en verbonden!")
+    main()
