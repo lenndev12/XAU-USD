@@ -1,0 +1,31 @@
+name: XAUUSD ORB Signal Bot
+
+on:
+  schedule:
+    # Elke 15 minuten tijdens London-window (Brussels 09:30-12:00 = UTC 07:30-10:00)
+    - cron: '0,15,30,45 7-10 * * 1-5'
+    # Elke 15 minuten tijdens NY-window (Brussels 16:00-19:00 = UTC 14:00-17:00)
+    - cron: '0,15,30,45 14-17 * * 1-5'
+  workflow_dispatch: # Handmatig starten voor testen
+
+jobs:
+  signal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installeer dependencies
+        run: pip install requests
+
+      - name: Run signal bot
+        env:
+          TWELVEDATA_KEY:   ${{ secrets.TWELVEDATA_KEY }}
+          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python signal_bot.py
