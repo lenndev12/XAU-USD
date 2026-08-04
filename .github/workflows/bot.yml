@@ -3,9 +3,9 @@ name: XAUUSD ORB Signal Bot
 on:
   schedule:
     # London window: Brussels 09:30-12:00 = UTC 07:30-10:00
-    - cron: '0,15,30,45 7-10 * * 1-5'
+    - cron: '*/5 7-12 * * 1-5'
     # NY window: Brussels 16:00-19:00 = UTC 14:00-17:00
-    - cron: '0,15,30,45 14-17 * * 1-5'
+    - cron: '*/5 14-21 * * 1-5'
   workflow_dispatch:
 
 permissions:
