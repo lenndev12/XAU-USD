@@ -3,7 +3,7 @@ name: XAUUSD Report Bot
 on:
   schedule:
     # Elke 10 minuten van 07:00-22:00 UTC (09:00-00:00 Brussel), elke dag
-    - cron: '*/2 4-23 * * *'
+    - cron: '*/1 4-23 * * *'
   workflow_dispatch:
  
 permissions:
