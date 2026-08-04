@@ -585,11 +585,8 @@ def scheduler_loop():
 
 if __name__ == "__main__":
     print("XAUUSD ORB Bot gestart 🚀")
+    threading.Thread(target=poll_loop, daemon=True).start()
+    threading.Thread(target=scheduler_loop, daemon=True).start()
     tg("🚀 <b>XAUUSD ORB Bot is online!</b>\nType /help voor alle commando's.")
-
-    # Start polling in aparte thread
-    t = threading.Thread(target=poll_loop, daemon=True)
-    t.start()
-
-    # Scheduler draait in main thread
-    scheduler_loop()
+    while True:
+        time.sleep(60)
