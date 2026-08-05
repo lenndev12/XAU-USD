@@ -1,0 +1,20 @@
+[
+  {
+    "id": "XAU-LON-20260805-100452",
+    "timestamp": "2026-08-05T10:04:52Z",
+    "symbol": "XAU/USD",
+    "session": "London",
+    "direction": "SHORT",
+    "entry": 4153.8928,
+    "sl": 4172.468630857143,
+    "tp": 4123.056920777142,
+    "rr": 1.66,
+    "range_high": 4179.30077,
+    "range_low": 4164.35881,
+    "asian_bias": "bullish",
+    "volume_ratio": 0.0,
+    "outcome": null,
+    "pnl_points": null,
+    "outcome_time": null
+  }
+]
