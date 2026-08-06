@@ -550,5 +550,17 @@
     "range_low": 4253.50915,
     "reason": "Candle body te zwak of candle te klein",
     "detail": "Body: 84% (min 60%)"
+  },
+  {
+    "id": "MISS-XAU-20260806-084834",
+    "timestamp": "2026-08-06T08:48:34Z",
+    "symbol": "XAU/USD",
+    "session": "London",
+    "direction": "LONG",
+    "close": 4274.19266,
+    "range_high": 4264.2393,
+    "range_low": 4253.50915,
+    "reason": "Candle body te zwak of candle te klein",
+    "detail": "Body: 98% (min 60%)"
   }
 ]
