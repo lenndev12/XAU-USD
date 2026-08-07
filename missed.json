@@ -1,17 +1,5 @@
 [
   {
-    "id": "MISS-XAU-20260806-101713",
-    "timestamp": "2026-08-06T10:17:13Z",
-    "symbol": "XAU/USD",
-    "session": "London",
-    "direction": "LONG",
-    "close": 4269.91247,
-    "range_high": 4264.2393,
-    "range_low": 4253.50915,
-    "reason": "Candle body te zwak of candle te klein",
-    "detail": "Body: 28% (min 60%)"
-  },
-  {
     "id": "MISS-XAU-20260806-101917",
     "timestamp": "2026-08-06T10:19:17Z",
     "symbol": "XAU/USD",
@@ -598,5 +586,17 @@
     "range_low": 4285.22455,
     "reason": "Candle body te zwak of candle te klein",
     "detail": "Body: 86% (min 60%)"
+  },
+  {
+    "id": "MISS-XAU-20260807-103341",
+    "timestamp": "2026-08-07T10:33:41Z",
+    "symbol": "XAU/USD",
+    "session": "London",
+    "direction": "LONG",
+    "close": 4315.63569,
+    "range_high": 4297.74798,
+    "range_low": 4285.22455,
+    "reason": "Candle body te zwak of candle te klein",
+    "detail": "Body: 85% (min 60%)"
   }
 ]
