@@ -13,9 +13,10 @@
     "range_low": 4164.35881,
     "asian_bias": "bullish",
     "volume_ratio": 0.0,
-    "outcome": null,
+    "outcome": "UNKNOWN",
     "pnl_points": -2.90148,
-    "outcome_time": null
+    "outcome_time": null,
+    "outcome_note": "Geen historische data beschikbaar van TwelveData"
   },
   {
     "id": "XAU-LON-20260810-084506",
@@ -31,9 +32,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": null,
+    "outcome": "UNKNOWN",
     "pnl_points": null,
-    "outcome_time": null
+    "outcome_time": null,
+    "outcome_note": "Geen historische data beschikbaar van TwelveData"
   },
   {
     "id": "XAU-LON-20260810-091553",
@@ -49,9 +51,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": null,
+    "outcome": "UNKNOWN",
     "pnl_points": null,
-    "outcome_time": null
+    "outcome_time": null,
+    "outcome_note": "Geen historische data beschikbaar van TwelveData"
   },
   {
     "id": "XAU-LON-20260810-093016",
@@ -67,9 +70,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": null,
+    "outcome": "UNKNOWN",
     "pnl_points": null,
-    "outcome_time": null
+    "outcome_time": null,
+    "outcome_note": "Geen historische data beschikbaar van TwelveData"
   },
   {
     "id": "XAU-LON-20260810-100031",
@@ -85,9 +89,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": null,
+    "outcome": "UNKNOWN",
     "pnl_points": null,
-    "outcome_time": null
+    "outcome_time": null,
+    "outcome_note": "Geen historische data beschikbaar van TwelveData"
   },
   {
     "id": "XAU-LON-20260810-104546",
@@ -103,8 +108,9 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": null,
+    "outcome": "UNKNOWN",
     "pnl_points": null,
-    "outcome_time": null
+    "outcome_time": null,
+    "outcome_note": "Geen historische data beschikbaar van TwelveData"
   }
 ]
