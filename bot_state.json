@@ -1,3 +1,12 @@
 {
-  "last_update_id": 187317683
+  "last_update_id": 187317683,
+  "challenge": {
+    "firm": "UPCOMERS",
+    "account_size": 10000.0,
+    "profit_target_pct": 5.0,
+    "daily_dd_pct": 3.0,
+    "total_dd_pct": 6.0,
+    "risk_pct": 1.0,
+    "start_date": "2026-08-10"
+  }
 }
