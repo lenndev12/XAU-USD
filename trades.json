@@ -16,5 +16,23 @@
     "outcome": null,
     "pnl_points": -2.90148,
     "outcome_time": null
+  },
+  {
+    "id": "XAU-LON-20260810-084506",
+    "timestamp": "2026-08-10T08:45:06Z",
+    "symbol": "XAU/USD",
+    "session": "London",
+    "direction": "SHORT",
+    "entry": 4346.38972,
+    "sl": 4355.5741664285715,
+    "tp": 4328.663738392857,
+    "rr": 1.93,
+    "range_high": 4359.33222,
+    "range_low": 4350.31042,
+    "asian_bias": "neutral",
+    "volume_ratio": 0.0,
+    "outcome": null,
+    "pnl_points": null,
+    "outcome_time": null
   }
 ]
