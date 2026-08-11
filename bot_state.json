@@ -9,5 +9,8 @@
     "risk_pct": 1.0,
     "start_date": "2026-08-10"
   },
-  "account_size": 10000.0
+  "account_size": 10000.0,
+  "daily_losses": {
+    "2026-08-05": 1
+  }
 }
