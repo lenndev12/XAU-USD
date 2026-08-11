@@ -13,10 +13,11 @@
     "range_low": 4164.35881,
     "asian_bias": "bullish",
     "volume_ratio": 0.0,
-    "outcome": "UNKNOWN",
-    "pnl_points": -2.90148,
-    "outcome_time": null,
-    "outcome_note": "Geen historische data beschikbaar van TwelveData"
+    "outcome": "LOSS",
+    "pnl_points": -18.57583,
+    "outcome_time": "2026-08-06 03:45:00",
+    "outcome_note": "SL geraakt",
+    "_loss_counted": true
   },
   {
     "id": "XAU-LON-20260810-084506",
@@ -32,10 +33,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": "UNKNOWN",
-    "pnl_points": null,
-    "outcome_time": null,
-    "outcome_note": "Geen historische data beschikbaar van TwelveData"
+    "outcome": "WIN",
+    "pnl_points": 17.72598,
+    "outcome_time": "2026-08-10 12:15:00",
+    "outcome_note": "TP geraakt"
   },
   {
     "id": "XAU-LON-20260810-091553",
@@ -51,10 +52,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": "UNKNOWN",
-    "pnl_points": null,
-    "outcome_time": null,
-    "outcome_note": "Geen historische data beschikbaar van TwelveData"
+    "outcome": "WIN",
+    "pnl_points": 11.84509,
+    "outcome_time": "2026-08-10 10:45:00",
+    "outcome_note": "TP geraakt"
   },
   {
     "id": "XAU-LON-20260810-093016",
@@ -70,10 +71,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": "UNKNOWN",
-    "pnl_points": null,
-    "outcome_time": null,
-    "outcome_note": "Geen historische data beschikbaar van TwelveData"
+    "outcome": "WIN",
+    "pnl_points": 16.18737,
+    "outcome_time": "2026-08-10 11:00:00",
+    "outcome_note": "TP geraakt"
   },
   {
     "id": "XAU-LON-20260810-100031",
@@ -89,10 +90,10 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": "UNKNOWN",
-    "pnl_points": null,
-    "outcome_time": null,
-    "outcome_note": "Geen historische data beschikbaar van TwelveData"
+    "outcome": "EXPIRED",
+    "pnl_points": -4.92351,
+    "outcome_time": "2026-08-10 15:00:00",
+    "outcome_note": "Sessie sloot om 17:00 Brussel \u2014 geen SL/TP hit"
   },
   {
     "id": "XAU-LON-20260810-104546",
@@ -108,9 +109,9 @@
     "range_low": 4350.31042,
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
-    "outcome": "UNKNOWN",
-    "pnl_points": null,
-    "outcome_time": null,
-    "outcome_note": "Geen historische data beschikbaar van TwelveData"
+    "outcome": "EXPIRED",
+    "pnl_points": -7.52431,
+    "outcome_time": "2026-08-10 15:00:00",
+    "outcome_note": "Sessie sloot om 17:00 Brussel \u2014 geen SL/TP hit"
   }
 ]
