@@ -133,5 +133,25 @@
     "outcome": null,
     "pnl_points": null,
     "outcome_time": null
+  },
+  {
+    "id": "XAU-NY-20260812-153119",
+    "timestamp": "2026-08-12T15:31:19Z",
+    "symbol": "XAU/USD",
+    "session": "NY",
+    "direction": "SHORT",
+    "entry": 4421.80867,
+    "sl": 4429.539588321428,
+    "tp1": 4414.077751678573,
+    "tp": 4408.279562937502,
+    "rr": 1.75,
+    "range_high": 4439.2306,
+    "range_low": 4423.01738,
+    "asian_bias": "neutral",
+    "volume_ratio": 0.0,
+    "tp1_notified": false,
+    "outcome": null,
+    "pnl_points": null,
+    "outcome_time": null
   }
 ]
