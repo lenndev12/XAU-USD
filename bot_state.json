@@ -1,4 +1,15 @@
 {
   "last_update_id": 187317683,
-  "account_size": 10000.0
+  "account_size": 10000.0,
+  "challenge": {
+    "firm": "UPCOMERS",
+    "balance": 10000.0,
+    "phase_target_pct": 3.0,
+    "daily_dd_pct": 4.0,
+    "max_dd_pct": 6.0,
+    "num_phases": 2,
+    "current_phase": 1,
+    "risk_pct": 1.0,
+    "start_date": "2026-08-12"
+  }
 }
