@@ -11,6 +11,7 @@
     "current_phase": 2,
     "risk_pct": 1.0,
     "start_date": "2026-08-12",
-    "phase1_notified": true
+    "phase1_notified": true,
+    "phase2_notified": true
   }
 }
