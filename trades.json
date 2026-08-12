@@ -153,5 +153,25 @@
     "outcome": null,
     "pnl_points": null,
     "outcome_time": null
+  },
+  {
+    "id": "EUR-NY-20260812-153122",
+    "timestamp": "2026-08-12T15:31:22Z",
+    "symbol": "EUR/USD",
+    "session": "NY",
+    "direction": "SHORT",
+    "entry": 1.15408,
+    "sl": 1.155131392857143,
+    "tp1": 1.153028607142857,
+    "tp": 1.1520192699999998,
+    "rr": 1.96,
+    "range_high": 1.15544,
+    "range_low": 1.15491,
+    "asian_bias": "neutral",
+    "volume_ratio": 0.0,
+    "tp1_notified": false,
+    "outcome": null,
+    "pnl_points": null,
+    "outcome_time": null
   }
 ]
