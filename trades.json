@@ -130,9 +130,10 @@
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
     "tp1_notified": false,
-    "outcome": null,
-    "pnl_points": null,
-    "outcome_time": null
+    "outcome": "EXPIRED",
+    "pnl_points": 6.27408,
+    "outcome_time": "2026-08-12 15:00:00",
+    "outcome_note": "Sessie sloot om 17:00 Brussel \u2014 geen SL/TP hit"
   },
   {
     "id": "XAU-NY-20260812-153119",
@@ -150,9 +151,10 @@
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
     "tp1_notified": false,
-    "outcome": null,
-    "pnl_points": null,
-    "outcome_time": null
+    "outcome": "WIN",
+    "pnl_points": 13.52911,
+    "outcome_time": "2026-08-12 16:45:00",
+    "outcome_note": "TP geraakt"
   },
   {
     "id": "EUR-NY-20260812-153122",
@@ -171,7 +173,8 @@
     "volume_ratio": 0.0,
     "tp1_notified": false,
     "outcome": null,
-    "pnl_points": null,
-    "outcome_time": null
+    "pnl_points": 0.00107,
+    "outcome_time": "2026-08-12 17:00:00",
+    "outcome_note": "Sessie nog actief"
   }
 ]
