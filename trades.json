@@ -176,5 +176,26 @@
     "pnl_points": 0.00206,
     "outcome_time": "2026-08-12 18:45:00",
     "outcome_note": "TP geraakt"
+  },
+  {
+    "taken": null,
+    "id": "XAU-NY-20260813-191527",
+    "timestamp": "2026-08-13T19:15:27Z",
+    "symbol": "XAU/USD",
+    "session": "NY",
+    "direction": "SHORT",
+    "entry": 4349.26161,
+    "sl": 4376.464966535715,
+    "tp1": 4322.0582534642845,
+    "tp": 4307.368440934998,
+    "rr": 1.54,
+    "range_high": 4387.36561,
+    "range_low": 4370.02048,
+    "asian_bias": "neutral",
+    "volume_ratio": 0.0,
+    "tp1_notified": false,
+    "outcome": null,
+    "pnl_points": null,
+    "outcome_time": null
   }
 ]
