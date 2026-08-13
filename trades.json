@@ -172,9 +172,9 @@
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
     "tp1_notified": false,
-    "outcome": null,
-    "pnl_points": 0.00107,
-    "outcome_time": "2026-08-12 17:00:00",
-    "outcome_note": "Sessie nog actief"
+    "outcome": "WIN",
+    "pnl_points": 0.00206,
+    "outcome_time": "2026-08-12 18:45:00",
+    "outcome_note": "TP geraakt"
   }
 ]
