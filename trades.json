@@ -194,8 +194,9 @@
     "asian_bias": "neutral",
     "volume_ratio": 0.0,
     "tp1_notified": false,
-    "outcome": null,
-    "pnl_points": null,
-    "outcome_time": null
+    "outcome": "EXPIRED",
+    "pnl_points": -3.0891,
+    "outcome_time": "2026-08-13 19:30:00",
+    "outcome_note": "Sessie sloot om 21:00 Brussel \u2014 geen SL/TP hit"
   }
 ]
