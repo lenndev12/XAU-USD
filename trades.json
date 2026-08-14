@@ -198,5 +198,26 @@
     "pnl_points": -3.0891,
     "outcome_time": "2026-08-13 19:30:00",
     "outcome_note": "Sessie sloot om 21:00 Brussel \u2014 geen SL/TP hit"
+  },
+  {
+    "taken": null,
+    "id": "XAU-NY-20260814-190057",
+    "timestamp": "2026-08-14T19:00:57Z",
+    "symbol": "XAU/USD",
+    "session": "NY",
+    "direction": "SHORT",
+    "entry": 4373.34788,
+    "sl": 4388.470705035715,
+    "tp1": 4358.225054964286,
+    "tp": 4348.6976751917855,
+    "rr": 1.63,
+    "range_high": 4396.587,
+    "range_low": 4383.65772,
+    "asian_bias": "neutral",
+    "volume_ratio": 0.0,
+    "tp1_notified": false,
+    "outcome": null,
+    "pnl_points": null,
+    "outcome_time": null
   }
 ]
