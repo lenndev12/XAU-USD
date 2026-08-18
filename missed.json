@@ -1,17 +1,5 @@
 [
   {
-    "id": "MISS-XAU-20260807-101915",
-    "timestamp": "2026-08-07T10:19:15Z",
-    "symbol": "XAU/USD",
-    "session": "London",
-    "direction": "LONG",
-    "close": 4310.18046,
-    "range_high": 4297.74798,
-    "range_low": 4285.22455,
-    "reason": "Candle body te zwak of candle te klein",
-    "detail": "Body: 10% (min 60%)"
-  },
-  {
     "id": "MISS-XAU-20260807-102018",
     "timestamp": "2026-08-07T10:20:18Z",
     "symbol": "XAU/USD",
@@ -598,5 +586,17 @@
     "range_low": 4396.31251,
     "reason": "Prior move uitgeput",
     "detail": "Move: 12.52 = 1.7x range (max 1.5x)"
+  },
+  {
+    "id": "MISS-XAU-NORANGE-20260818-0731",
+    "timestamp": "2026-08-18T07:31:04Z",
+    "symbol": "XAU/USD",
+    "session": "London",
+    "direction": "N/A",
+    "close": 0,
+    "range_high": 0,
+    "range_low": 0,
+    "reason": "Opening range niet gevonden",
+    "detail": "TwelveData heeft geen 30min candle voor 09:00 (London) of 16:00 (NY) vandaag"
   }
 ]
